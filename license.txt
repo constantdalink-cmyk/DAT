@@ -1,8 +1,8 @@
 DAT 软件许可协议
 DAT Software License Agreement
 
-版权所有 (c) 2025 [GitHub @Constantdalink-CMYK]
-Copyright (c) 2025 [GitHub @Constantdalink-CMYK]
+版权所有 (c) 2026 [GitHub @Constantdalink-CMYK]
+Copyright (c) 2026 [GitHub @Constantdalink-CMYK]
 
 本协议依据中华人民共和国《著作权法》《计算机软件保护条例》《民法典》
 及相关法律法规制定，具有法律约束力。
@@ -251,3 +251,4 @@ Copyright (c) 2025 [GitHub @Constantdalink-CMYK]
 日期：2026年
 
 ══════════════════════════════════════════════════════════════
+
