@@ -125,7 +125,7 @@ git push origin feature/你的功能
 
 ## 📄 许可协议
 
-本项目基于 [DAT License](LICENSE) 发布，受中华人民共和国《著作权法》保护。
+本项目基于 [DAT License](license.txt) 发布，受中华人民共和国《著作权法》保护。
 
 原始项目创建者对本软件拥有一切权利。
 
